@@ -3,5 +3,5 @@
 ## Disciplina de Tecnologias Web, 4° Semstre de Engenharia da Computação do Insper
 
 Feito por:
-+ Bruno Zacberg
++ Bruno Zalcberg
 + Rafael G. Paves
